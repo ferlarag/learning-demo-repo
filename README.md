@@ -1,3 +1,3 @@
-# TMy first repo!
+# My first repo!
 
 This is kinda scary...

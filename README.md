@@ -1,0 +1,3 @@
+# TMy first repo!
+
+This is kinda scary...

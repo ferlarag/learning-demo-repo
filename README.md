@@ -1,3 +1,3 @@
 # My first repo!
 
-This is kinda scary...
+This is kinda scary!
